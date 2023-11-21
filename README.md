@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Giacomo, a data science student and AI enthusiast. Find here some projects I've dealt with, have fun! 🚀
+
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/giacomo-ciro/)
