@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Giacomo, a data science student and AI enthusiast. Find here some projects I've dealt with, have fun! 🚀
+🧑‍💻 I'm Giacomo, a data science student and AI enthusiast.
 
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/giacomo-ciro/)
+📚 I'm currently enrolled in a BSc in Economics, Management and Computer Science at Bocconi University.
+
+🚀 Here I will upload and share some projects I've dealt with which I think are interesting to explore, have fun!
+
+📬 Feel free to reach out for anything on [LinkedIn](https://www.linkedin.com/in/giacomo-ciro/)!
