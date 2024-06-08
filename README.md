@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🧑‍💻 I'm Giacomo, a data science student and AI enthusiast.
 
-📚 I'm currently enrolled in a BSc in Economics, Management and Computer Science at Bocconi University.
+📚 I'm currently enrolled in a BSc in Economics and Computer Science at Bocconi University.
 
 🚀 Here I will upload and share some projects I've dealt with which I think are interesting to explore, have fun!
 
