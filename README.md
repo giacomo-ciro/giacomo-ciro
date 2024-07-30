@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 📬 Feel free to reach out for anything on [LinkedIn](https://www.linkedin.com/in/giacomo-ciro/)!  
 
-❗ Naming convention: `YYMMDD_repo-name` where YYMMDD is the date created.
+❗ Naming convention: `YYMMDD_repo-name` where the date is the date first created.
