@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 🚀 Here I will upload and share some projects I've dealt with which I think are interesting to explore, have fun!
 
-📬 Feel free to reach out for anything on [LinkedIn](https://www.linkedin.com/in/giacomo-ciro/) or check my [personal website](giacomo-ciro.github.io)!  
+📬 Feel free to reach out for anything on [LinkedIn](https://www.linkedin.com/in/giacomo-ciro/) or check my [personal website](https://www.giacomo-ciro.github.io)!  
 
 ❗ Naming convention: `YYMMDD_repo-name` where the date is the date first created.
